@@ -1,6 +1,6 @@
 # MirrorWarp Packager
 
-https://packager.mirrorwarp.github.io/
+https://mirrorwarp.github.io/packager/
 
 Converts Scratch projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux.
 
